@@ -1,2 +1,2 @@
 # drug-target-master
-drug target
+Machine learning pratice
